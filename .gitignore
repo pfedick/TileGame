@@ -1,0 +1,7 @@
+autom4te.cache
+*.log
+Makefile
+configure~
+config.status
+tilegame
+compile
